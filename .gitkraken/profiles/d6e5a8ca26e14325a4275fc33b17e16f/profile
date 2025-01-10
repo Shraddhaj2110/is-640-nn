@@ -1,0 +1,32 @@
+{
+  "integration": {
+    "hasConnectedIntegrationByType": {}
+  },
+  "tabInfo": {
+    "permanentTabs": {
+      "FOCUS_VIEW": {
+        "closed": false
+      },
+      "REPO_MANAGEMENT": {}
+    },
+    "selectedTabId": "9974f240-66d2-4433-a1ae-ac733f4644d3",
+    "tabs": [
+      {
+        "id": "9974f240-66d2-4433-a1ae-ac733f4644d3",
+        "type": "NEW"
+      },
+      {
+        "id": "e591cc98-2db4-4d27-aa2e-c15adb0f181e",
+        "type": "RELEASE_NOTES"
+      }
+    ]
+  },
+  "projects": {},
+  "externalEditor": "VS Code",
+  "editor": {
+    "fontFamily": "Menlo"
+  },
+  "cli": {
+    "fontFamily": "Menlo"
+  }
+}

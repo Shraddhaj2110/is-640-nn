@@ -1,0 +1,107 @@
+{
+  "lastUpgradeScriptRun": "v10.4.1",
+  "appId": "f6212dfca03081e414184adeec7e58301dfefd13",
+  "appLocale": "en-US",
+  "appDateFormat": null,
+  "appDateTimeFormat": null,
+  "appDateWordFormat": null,
+  "appDateVerboseFormat": null,
+  "userMilestones": {
+    "installId": "205189fd-4ec0-4f94-92bc-e46ec232cc0f",
+    "firstAppOpen": true
+  },
+  "sslWhitelist": [],
+  "lastReleaseNotesDisplayed": "10.4.1",
+  "ui": {
+    "shouldShowStartupPromoModal": false
+  },
+  "aliases": {
+    "repo": {},
+    "tabs": {}
+  },
+  "registration": {
+    "EULA": {
+      "status": "agree_unverified",
+      "version": "8.3.1"
+    },
+    "status": "unregistered"
+  },
+  "licensedFeatures": [],
+  "userFeatures": [
+    {
+      "name": "activityStatus"
+    },
+    {
+      "name": "changePriceEnabled"
+    },
+    {
+      "name": "cli"
+    },
+    {
+      "name": "experimentalAiCommmitMsg"
+    },
+    {
+      "name": "experimentalGitBinary"
+    },
+    {
+      "name": "experimentalGitBinaryDefaultOn971"
+    },
+    {
+      "name": "experimentalGitBinarySpawnServer961"
+    },
+    {
+      "name": "fall2024SpecialPricing"
+    },
+    {
+      "name": "gitBash"
+    },
+    {
+      "name": "gitkraken"
+    },
+    {
+      "name": "gkApi"
+    },
+    {
+      "name": "gkDotDevInsights"
+    },
+    {
+      "name": "gkDotDevLaunchpadViewSettings"
+    },
+    {
+      "name": "gkDotDevNewPurchaseFlow"
+    },
+    {
+      "name": "GKDotDevShowSsoSettings"
+    },
+    {
+      "name": "goldenTicketSpecial"
+    },
+    {
+      "name": "noGlobalFocusView"
+    },
+    {
+      "name": "onboardingGuide"
+    },
+    {
+      "name": "registeredForGST"
+    },
+    {
+      "name": "terminalInsideRepoTab"
+    },
+    {
+      "name": "unregisteredTrials"
+    },
+    {
+      "name": "velocityInClient_9_0_0"
+    },
+    {
+      "name": "version_2"
+    },
+    {
+      "name": "workspacesPRComplexity"
+    }
+  ],
+  "onboarding": {
+    "tutorialVariant": "10_4_0"
+  }
+}
